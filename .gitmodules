@@ -31,6 +31,9 @@
 [submodule "lilisun"]
 	path = lilisun
 	url = https://github.com/lilisun/MITx.git
+[submodule "lu16j"]
+	path = lu16j
+	url = https://github.com/lu16j/MITx.git
 [submodule "mattpf"]
 	path = mattpf
 	url = https://github.com/mattpf/MITx.git
