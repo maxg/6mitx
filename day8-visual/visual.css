@@ -1,0 +1,7 @@
+.chart { border: 1px solid gray; }
+.chart div {
+  background-color: rgb(100,50,150);
+  color: #fff;
+  text-align: right; font: 10px sans-serif;
+  padding: 3px; margin: 1px;
+}
