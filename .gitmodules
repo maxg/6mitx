@@ -1,0 +1,54 @@
+[submodule "cmchang"]
+	path = cmchang
+	url = https://github.com/cmchang/MITx.git
+[submodule "cressid"]
+	path = cressid
+	url = https://github.com/cressid/MITx.git
+[submodule "deannah"]
+	path = deannah
+	url = https://github.com/deannah/MITx.git
+[submodule "dontony"]
+	path = dontony
+	url = https://github.com/dontony/MITx.git
+[submodule "dsan10s"]
+	path = dsan10s
+	url = https://github.com/Dsan10s/MITx.git
+[submodule "fkeza"]
+	path = fkeza
+	url = https://github.com/fkeza/MITx.git
+[submodule "haleyb-e"]
+	path = haleyb-e
+	url = https://github.com/HaleyB-E/MITx.git
+[submodule "jessmand"]
+	path = jessmand
+	url = https://github.com/jessmand/MITx.git
+[submodule "joehan"]
+	path = joehan
+	url = https://github.com/joehan/MITx.git
+[submodule "laurabreiman"]
+	path = laurabreiman
+	url = https://github.com/laurabreiman/MITx.git
+[submodule "lilisun"]
+	path = lilisun
+	url = https://github.com/lilisun/MITx.git
+[submodule "mattpf"]
+	path = mattpf
+	url = https://github.com/mattpf/MITx.git
+[submodule "michelleoj"]
+	path = michelleoj
+	url = https://github.com/michelleoj/MITx.git
+[submodule "olearym"]
+	path = olearym
+	url = https://github.com/olearym/MITx.git
+[submodule "sammoh94"]
+	path = sammoh94
+	url = https://github.com/sammoh94/MITx.git
+[submodule "seterman"]
+	path = seterman
+	url = https://github.com/seterman/MITx.git
+[submodule "stephensm"]
+	path = stephensm
+	url = https://github.com/stephensm/MITx.git
+[submodule "thanard"]
+	path = thanard
+	url = https://github.com/thanard/MITx.git
