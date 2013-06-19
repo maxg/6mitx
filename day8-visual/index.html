@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>Visualizations</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src="http://pagedown.googlecode.com/hg/Markdown.Converter.js"></script>
+  <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap.css" rel="stylesheet"></link>
+</head>
+<body>
+  <div id="content" class="container">
+  <div class="page-header"><h1>Visualizations <small>using D3.js</small></h1></div>
+  </div>
+  <hr/>
+  <script>
+  $.get("visual.md").success(function(md) {
+    $("#content").append(new Markdown.Converter().makeHtml(md));
+  });
+  </script>
+</body>
+</html>
